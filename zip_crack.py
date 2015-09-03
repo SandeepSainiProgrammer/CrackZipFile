@@ -34,8 +34,8 @@ def main():
 	(options, arg) = parser.parse_args()
 
         print '\t\t\t ######################################'
-        print '\t\t\t ##    Proudly Made By An INDIAN     ##'
-        print '\t\t\t ##   Author : Rohit Saxsena INDIA   ##'
+        print '\t\t\t ##                                  ##'
+        print '\t\t\t ##      Author : Sandeep Saini      ##'
         print '\t\t\t ##        Version : V0.1zPC         ##'
         print '\t\t\t ######################################'
 
